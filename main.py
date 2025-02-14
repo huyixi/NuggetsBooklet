@@ -4,7 +4,6 @@
 import os
 import subprocess
 from datetime import datetime
-from test.test_ctypes.test_win32_com_foreign_func import OUT
 
 def generate_ebook(root_dir, output_format="epub", output_name=None):
     """
