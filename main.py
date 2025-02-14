@@ -4,12 +4,14 @@
 import os
 import subprocess
 from datetime import datetime
+from test.test_ctypes.test_win32_com_foreign_func import OUT
 
-def generate_ebook(root_dir, output_format="epub"):
+def generate_ebook(root_dir, output_format="epub", output_name=None):
     """
     生成电子书的主要函数
     :param root_dir: 要扫描的根目录
     :param output_format: 输出格式 (epub/pdf)
+    :param output_name: 输出文件名（不包括扩展名）
     """
     # 创建临时工作目录（排除掉以"_"开头的目录）
     temp_dir = os.path.join(root_dir, "_booktemp")
@@ -34,7 +36,7 @@ def generate_ebook(root_dir, output_format="epub"):
         process_directory(root_dir, f, root_dir)
 
     # 使用 Pandoc 生成电子书
-    output_file = os.path.join(root_dir, f"output.{output_format}")
+    output_file = os.path.join(root_dir, f"{output_name or metadata['title'] or 'book'}.{output_format}")
     generate_with_pandoc(main_md, output_file, output_format)
 
     # 如有需要可清理临时文件
@@ -136,5 +138,12 @@ def generate_with_pandoc(input_md, output_file, output_format):
         print(f"错误输出: {e.stderr}")
 
 if __name__ == "__main__":
-    target_directory = "./程序员职业小白书"
-    generate_ebook(target_directory, "epub")
+    base_dir = './'
+    for item in os.listdir(base_dir):
+        if item.startswith(("_",".")):
+            continue
+        full_path = os.path.join(base_dir, item)
+        if os.path.isdir(full_path):
+            print(f"正在处理目录 {full_path}")
+            print(f"正在生成电子书 {full_path}")
+            generate_ebook(full_path, "epub", output_name=item)
