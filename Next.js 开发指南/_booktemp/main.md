@@ -1,6 +1,6 @@
 ---
 title: Next.js 开发指南
-author: Auto Generated
+author: Next.js 开发指南
 date: 2025-02-14
 lang: zh-CN
 ---
