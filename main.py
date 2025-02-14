@@ -44,7 +44,7 @@ def generate_metadata(root_dir):
     """生成电子书元数据"""
     return {
         "title": os.path.basename(os.path.abspath(root_dir)),
-        "author": "Auto Generated",
+        "author": os.path.basename(os.path.abspath(root_dir)),
         "date": datetime.now().strftime("%Y-%m-%d"),
     }
 
@@ -136,5 +136,5 @@ def generate_with_pandoc(input_md, output_file, output_format):
         print(f"错误输出: {e.stderr}")
 
 if __name__ == "__main__":
-    target_directory = "./Next.js 开发指南"
+    target_directory = "./程序员职业小白书"
     generate_ebook(target_directory, "epub")
