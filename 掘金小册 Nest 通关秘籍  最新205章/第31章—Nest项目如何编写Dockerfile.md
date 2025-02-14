@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿首先思考一个问题：
 
 dockerfile 是在哪里 build 的，在命令行工具里，还是在 docker 守护进程呢？

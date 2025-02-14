@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿数据库我们学习了 mysql，这节来再来学下 mongodb。
 
 在 docker desktop 搜索 mongo 镜像，然后把它跑起来：

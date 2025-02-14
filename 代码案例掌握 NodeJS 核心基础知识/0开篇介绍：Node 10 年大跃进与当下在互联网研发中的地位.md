@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # 开篇介绍：Node 10 年大跃进与当下在互联网研发中的地位
 
 ![image.png | left | 826x155](https://user-gold-cdn.xitu.io/2018/10/7/1664ea1dc531592e?w=1883&h=355&f=png&s=110207 "")

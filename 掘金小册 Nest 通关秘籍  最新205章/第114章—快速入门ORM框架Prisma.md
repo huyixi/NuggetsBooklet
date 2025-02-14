@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学习了 TypeORM，它是一个传统的 ORM 框架，也就是把表映射到 entity 类，把表的关联映射成 entity 类的属性关联。
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第114章-1.png)

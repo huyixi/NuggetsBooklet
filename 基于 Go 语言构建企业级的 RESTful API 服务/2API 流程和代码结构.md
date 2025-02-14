@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # API 流程和代码结构
 
 为了使读者在开始实战之前对 API 开发有个整体的了解，这里选择了两个流程来介绍：
@@ -53,7 +53,7 @@ HTTP 服务器软件进程，这里指的是 API 服务器，在接收到请求�
 一个 HTTP 请求报文由请求行（request line）、请求头部（header）、空行和请求数据四部分组成，下图是请求报文的一般格式。
 
 ![](https://user-gold-cdn.xitu.io/2018/6/27/1643f2e4e3da9dcd?w=2393&h=1385&f=png&s=274398)
-    
+
 + 第一行必须是一个请求行（request line），用来说明请求类型、要访问的资源以及所使用的 HTTP 版本
 + 紧接着是一个头部（header）小节，用来说明服务器要使用的附加信息
 + 之后是一个空行
@@ -70,7 +70,7 @@ HTTP 服务器软件进程，这里指的是 API 服务器，在接收到请求�
 │   ├── server.crt               # TLS配置文件
 │   └── server.key
 ├── config                       # 专门用来处理配置和配置文件的Go package
-│   └── config.go                 
+│   └── config.go
 ├── db.sql                       # 在部署新环境时，可以登录MySQL客户端，执行source db.sql创建数据库和表
 ├── docs                         # swagger文档，执行 swag init 生成的
 │   ├── docs.go
@@ -80,7 +80,7 @@ HTTP 服务器软件进程，这里指的是 API 服务器，在接收到请求�
 ├── handler                      # 类似MVC架构中的C，用来读取输入，并将处理流程转发给实际的处理函数，最后返回结果
 │   ├── handler.go
 │   ├── sd                       # 健康检查handler
-│   │   └── check.go 
+│   │   └── check.go
 │   └── user                     # 核心：用户业务逻辑handler
 │       ├── create.go            # 新增用户
 │       ├── delete.go            # 删除用户
@@ -112,7 +112,7 @@ HTTP 服务器软件进程，这里指的是 API 服务器，在接收到请求�
 ├── README.md                    # API目录README
 ├── router                       # 路由相关处理
 │   ├── middleware               # API服务器用的是Gin Web框架，Gin中间件存放位置
-│   │   ├── auth.go 
+│   │   ├── auth.go
 │   │   ├── header.go
 │   │   ├── logging.go
 │   │   └── requestid.go
@@ -120,7 +120,7 @@ HTTP 服务器软件进程，这里指的是 API 服务器，在接收到请求�
 ├── service                      # 实际业务处理函数存放位置
 │   └── service.go
 ├── util                         # 工具类函数存放目录
-│   ├── util.go 
+│   ├── util.go
 │   └── util_test.go
 └── vendor                         # vendor目录用来管理依赖包
     ├── github.com

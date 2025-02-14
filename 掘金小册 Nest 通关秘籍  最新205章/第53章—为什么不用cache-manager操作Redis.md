@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节我们学了在 Nest 里操作 Redis，很多同学会问，为什么不用 cache-manager 呢？
 
 [官方文档](https://docs.nestjs.com/techniques/caching)里就是用的 cache-manger：

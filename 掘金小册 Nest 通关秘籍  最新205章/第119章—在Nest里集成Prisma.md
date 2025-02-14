@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学 Prisma，最终还是要和 Nest 结合用的，就像我们学 TypeORM 时那样。
 
 其实也很简单，还是基于 schema 生成 client 的 api，然后调用这些 api 来 CRUD。

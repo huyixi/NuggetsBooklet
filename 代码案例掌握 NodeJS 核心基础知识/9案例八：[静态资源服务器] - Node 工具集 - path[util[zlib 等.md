@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # [静态资源服务器] Node 的工具集 - path/util/zlib 等
 
 ```!

@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿这节我们继续来学习 TypeORM 的一对多关系的映射和 CRUD。
 
 我们再创建个 typeorm 项目：

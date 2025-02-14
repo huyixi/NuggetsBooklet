@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿前面我们学习了 Docker、Docker Compose，并在 Docker 容器里通过 pm2-runtime 来跑的 node 服务。
 
 主要是用 pm2 可以在进程崩溃的时候重启进程的功能。

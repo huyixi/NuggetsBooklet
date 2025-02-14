@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学了 Prisma 的命令、schema 的语法，这节来过一遍 Prisma Client 的 api。
 
 这节只涉及单个表的 CRUD 的 api。

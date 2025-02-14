@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # [压测 Cluster 的并发负载] Node 的集群 - cluster
 
 ```!

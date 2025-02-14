@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿用户管理模块我们实现了登录、注册、认证鉴权，还剩下一些列表、更新等接口：
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第88章-1.png)

@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们通过 redis-cli 命令行和 RedisInsight 的 GUI 工具入门了 redis。
 
 那在 Node 里怎么操作 redis 呢？

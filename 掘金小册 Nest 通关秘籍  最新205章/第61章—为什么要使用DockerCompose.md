@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学习了 Nest、Mysql、Redis，并且在 Nest 里远程连接 Mysql 和 Redis 来做数据存储、增删改查。
 
 Mysql 和 Redis 都是跑在 Docker 容器里的。

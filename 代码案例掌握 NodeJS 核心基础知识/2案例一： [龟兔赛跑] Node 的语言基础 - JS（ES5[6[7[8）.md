@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 #  [命令行动画龟兔赛跑] Node 的语言基础 - JS（ES5/6/7/8）
 
 ![image.png | left | 826x102](https://user-gold-cdn.xitu.io/2018/10/13/1666e1b31fda4c77?w=2508&h=310&f=png&s=98394 "")

@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # [视频流转 MP3 工具] Node 数据流与管道 - Stream/pipe
 
 ```!

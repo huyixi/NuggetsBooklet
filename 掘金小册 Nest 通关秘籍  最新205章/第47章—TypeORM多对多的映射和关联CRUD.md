@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿一对一我们是通过 @OneToOne 和 @JoinColumn 来把 Entity 映射成数据库表：
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第47章-1.png)

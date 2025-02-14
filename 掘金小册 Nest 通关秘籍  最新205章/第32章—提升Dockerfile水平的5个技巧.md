@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿Docker 是一种容器技术，它可以在操作系统上创建多个相互隔离的容器。容器内独立安装软件、运行服务。
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第32章-1.png)

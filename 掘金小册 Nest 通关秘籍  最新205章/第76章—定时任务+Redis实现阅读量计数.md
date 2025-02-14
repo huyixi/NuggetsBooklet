@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿文章都会有个阅读量，那这个阅读量是怎么计数的呢？
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第76章-1.png)
