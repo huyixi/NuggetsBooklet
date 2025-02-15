@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿前面讲了 IOC、AOP、全局模块、动态模块、自定义 provider、生命周期等概念，比较零散，这节我们画图来整体串一串。
 
 首先，provider 是可以注入的对象，它们都有 token，比如 @Injectable 装饰器声明的 class

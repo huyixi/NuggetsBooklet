@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节我们讲 Docker Compose 的时候，涉及到多个 docker 容器的通信，我们是通过指定宿主机 ip 和端口的方式。
 
 因为 mysql、redis 的 Docker 容器都映射到了宿主机的端口，那 nest 的容器就可以通过宿主机来实现和其他容器的通信。

@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # 高级 1：不喜欢 merge 的分叉？用 rebase 吧
 
 有些人不喜欢 `merge`，因为在 `merge` 之后，`commit` 历史就会出现分叉，这种分叉再汇合的结构会让有些人觉得混乱而难以管理。如果你不希望 `commit` 历史出现分叉，可以用 `rebase` 来代替 `merge`。
@@ -48,7 +48,7 @@ git merge branch1
 > 这就导致 `master` 上之前的两个最新 `commit` 被剔除了。如果这两个 `commit` 之前已经在中央仓库存在，这就会导致没法 `push` 了：
 >
 > ![](https://user-gold-cdn.xitu.io/2017/12/2/16014bc64d4337f8?w=643&h=640&f=jpeg&s=58468)
-> 
+>
 > 所以，为了避免和远端仓库发生冲突，一般不要从 `master` 向其他 `branch` 执行 `rebase` 操作。而如果是 `master` 以外的 `branch` 之间的 `rebase`（比如 `branch1` 和 `branch2` 之间），就不必这么多费一步，直接 `rebase` 就好。
 
 ## 小结

@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿前面我们学习了 Docker 镜像、容器的各种操作，dockerfile 的编写，dockerignore 和镜像的多阶段构建。
 
 是不是感觉 Docker 也没多少东西？

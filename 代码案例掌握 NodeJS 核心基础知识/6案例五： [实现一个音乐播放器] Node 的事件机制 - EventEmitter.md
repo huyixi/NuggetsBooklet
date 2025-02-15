@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 # [实现一个音乐播放器] Node 的事件机制 - EventEmitter
 
 ```!

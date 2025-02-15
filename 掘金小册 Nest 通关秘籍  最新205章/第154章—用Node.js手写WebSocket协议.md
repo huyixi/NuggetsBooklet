@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿实时的双向数据通信，我们一般会用 WebSocket 来做。
 
 HTTP 的协议格式我们很清楚，就是 header、body 这些。

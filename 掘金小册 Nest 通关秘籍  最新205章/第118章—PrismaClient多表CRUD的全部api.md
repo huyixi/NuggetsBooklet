@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节我们过了一遍 Prisma Client 做 CRUD 的 api，但那只是针对单表的，这节我们把涉及到多表的 CRUD 的 api 过一遍。
 
 创建个新项目：

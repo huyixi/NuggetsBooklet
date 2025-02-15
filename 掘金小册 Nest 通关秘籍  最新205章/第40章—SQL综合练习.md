@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿前面我们把 select、update、insert、delete 的语法、函数、关联查询、子查询都过了一遍，sql 学的就差不多了。
 
 这节我们来实战下，写一些复杂的 sql。

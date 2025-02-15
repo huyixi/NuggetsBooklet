@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节我们实现了注册和登录，有的接口只有登录可以访问，会在 Guard 里做身份验证（Authentication）。
 
 ![image.png](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第57章-1.png)

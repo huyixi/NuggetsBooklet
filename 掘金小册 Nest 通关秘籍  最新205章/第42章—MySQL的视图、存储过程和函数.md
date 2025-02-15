@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿和 mysql server 建立连接之后，可以看到它下面所有的 database。
 
 每个 database 包含表、视图、存储过程、函数：

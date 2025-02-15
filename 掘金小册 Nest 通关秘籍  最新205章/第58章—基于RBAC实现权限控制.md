@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节实现了基于 ACL 的权限控制，这节来实现 RBAC 权限控制。
 
 RBAC 是 Role Based Access Control，基于角色的权限控制。
@@ -65,7 +65,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 @Module({
-  imports: [ 
+  imports: [
     TypeOrmModule.forRoot({
       type: "mysql",
       host: "localhost",
@@ -127,12 +127,12 @@ export class User {
 
     @UpdateDateColumn()
     updateTime: Date;
-    
+
     @ManyToMany(() => Role)
     @JoinTable({
         name: 'user_role_relation'
     })
-    roles: Role[] 
+    roles: Role[]
 }
 ```
 User 有 id、username、password、createTime、updateTime 5 个字段。
@@ -159,12 +159,12 @@ export class Role {
 
     @UpdateDateColumn()
     updateTime: Date;
-    
+
     @ManyToMany(() => Permission)
     @JoinTable({
         name: 'role_permission_relation'
     })
-    permissions: Permission[] 
+    permissions: Permission[]
 }
 
 ```
@@ -184,7 +184,7 @@ export class Permission {
         length: 50
     })
     name: string;
-    
+
     @Column({
         length: 100,
         nullable: true
@@ -311,7 +311,7 @@ async initData() {
     user2.roles = [role2];
 
     await this.entityManager.save(Permission, [
-      permission1, 
+      permission1,
       permission2,
       permission3,
       permission4,
@@ -329,7 +329,7 @@ async initData() {
     await this.entityManager.save(User, [
       user1,
       user2
-    ])  
+    ])
 }
 ```
 
@@ -490,7 +490,7 @@ async login(@Body() loginUser: UserLoginDto){
 我们要把 user 信息放到 jwt 里，所以安装下相关的包：
 
     npm install --save @nestjs/jwt
- 
+
 然后在 AppModule 里引入 JwtModule：
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第58章-31.png)
@@ -531,8 +531,8 @@ async login(@Body() loginUser: UserLoginDto){
 
 我们添加 aaa、bbb 两个模块，分别生成 CRUD 方法：
 ```
-nest g resource aaa 
-nest g resource bbb 
+nest g resource aaa
+nest g resource bbb
 ```
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第58章-34.png)
 
@@ -550,7 +550,7 @@ nest g resource bbb
 
 所以要对接口的调用做限制。
 
-先添加一个 LoginGuard，限制只有登录状态才可以访问这些接口： 
+先添加一个 LoginGuard，限制只有登录状态才可以访问这些接口：
 
 ```
 nest g guard login --no-spec --flat
@@ -566,15 +566,15 @@ import { Observable } from 'rxjs';
 
 @Injectable()
 export class LoginGuard implements CanActivate {
-  
+
   @Inject(JwtService)
   private jwtService: JwtService;
-  
+
   canActivate(
     context: ExecutionContext,
   ): boolean | Promise<boolean> | Observable<boolean> {
     const request: Request = context.switchToHttp().getRequest();
-    
+
     const authorization = request.headers.authorization;
 
     if(!authorization) {
@@ -732,7 +732,7 @@ import { UserService } from './user.service';
 @Injectable()
 export class PermissionGuard implements CanActivate {
 
-  @Inject(UserService) 
+  @Inject(UserService)
   private userService: UserService;
 
   canActivate(
@@ -773,7 +773,7 @@ import { UserService } from './user/user.service';
 @Injectable()
 export class PermissionGuard implements CanActivate {
 
-  @Inject(UserService) 
+  @Inject(UserService)
   private userService: UserService;
 
   async canActivate(
@@ -923,6 +923,3 @@ LoginGuard 和 PermissionGuard 需要注入一些 provider，所以通过在 App
 当然，这是 RBAC0 的方案，更复杂一点的权限模型，可能会用 RBAC1、RBAC2 等，那个就是多角色继承、用户组、角色之间互斥之类的概念，会了 RBAC0，那些也就是做一些变形的事情。
 
 绝大多数系统，用 RBAC0 就足够了。
-
-
-

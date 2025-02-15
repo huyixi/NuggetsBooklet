@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿学完了 mysql、typeorm、jwt/session 之后，我们来做个综合案例：登录注册。
 
 首先，创建个新的 database：

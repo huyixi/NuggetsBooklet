@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿后端系统中，会有很多对象：
 
 - Controller 对象：接收 http 请求，调用 Service，返回响应

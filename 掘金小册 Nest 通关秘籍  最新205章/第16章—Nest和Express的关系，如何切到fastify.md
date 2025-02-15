@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿前面我们用的 Nest 的 request、response 对象都是 Express 的，而且 Nest 也支持 Express 的中间件机制。
 
 那 Nest 和 Express 是什么关系呢？

@@ -1,6 +1,10 @@
 ---
 title: Next.js 开发指南
+<<<<<<< HEAD
 author: Auto Generated
+=======
+author: Next.js 开发指南
+>>>>>>> 8431352b25de252c88e92e8c691403b124d2a2cc
 date: 2025-02-14
 lang: zh-CN
 ---

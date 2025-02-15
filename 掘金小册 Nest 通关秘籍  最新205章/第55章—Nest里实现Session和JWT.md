@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿上节我们知道了保存登录状态的两种方式，session + cookie、jwt，这节我们用 Nest 来实现下吧。
 
 首先用 @nest/cli 快速创建一个 Nest.js 项目

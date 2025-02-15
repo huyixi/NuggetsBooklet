@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学习了 select 的各种语法，包括 where、limit、order by、group by、having 等，再就是 avg、count、length 等函数。
 
 还学了多个表的 join on 关联查询。

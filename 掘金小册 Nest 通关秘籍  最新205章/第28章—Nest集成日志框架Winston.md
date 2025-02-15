@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿我们学习了 Nest 如何自定义 logger，也学习了 Winston 的使用。
 
 那如何在 Nest 里集成 Winston 呢？

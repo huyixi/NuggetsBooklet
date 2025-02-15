@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿想必大家都打过车，打车软件可以根据你的当前位置搜索附近的车辆：
 
 ![](//liushuaiyang.oss-cn-shanghai.aliyuncs.com/nest-docs/image/第69章-1.png)

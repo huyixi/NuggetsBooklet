@@ -1,4 +1,4 @@
-### 本资源由 itjc8.com 收集整理
+
 ﻿对于前端来说，后端主要是提供 http 接口来传输数据，而这种数据传输的方式主要有 5 种：
 
 *   url param
@@ -176,7 +176,7 @@ export class PersonController {
     <script>
         async function urlParam() {
             const res = await axios.get('/api/person/1');
-            console.log(res);            
+            console.log(res);
         }
         urlParam();
    </script>
@@ -228,7 +228,7 @@ export class PersonController {
                     age: 20
                 }
             });
-            console.log(res);            
+            console.log(res);
         }
         query();
    </script>
@@ -293,7 +293,7 @@ export class PersonController {
             }), {
                 headers: { 'content-type': 'application/x-www-form-urlencoded' }
             });
-            console.log(res);  
+            console.log(res);
         }
 
         formUrlEncoded();
@@ -343,7 +343,7 @@ export class PersonController {
                 name: '光',
                 age: 20
             });
-            console.log(res);     
+            console.log(res);
         }
         json();
     </script>
@@ -413,7 +413,7 @@ export class PersonController {
             const res = await axios.post('/api/person/file', data, {
                 headers: { 'content-type': 'multipart/form-data' }
             });
-            console.log(res);     
+            console.log(res);
         }
 
         fileInput.onchange = formData;
