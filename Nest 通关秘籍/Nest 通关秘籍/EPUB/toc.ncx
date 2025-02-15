@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:ab9fe3ea-211f-4136-b7c5-e871a86670a5" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Nest 通关秘籍</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Nest 通关秘籍</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Nest 通关秘籍</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#nest-通关秘籍" />
+      <navPoint id="navPoint-2">
+        <navLabel>
+          <text>1.开篇词</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#开篇词" />
+      </navPoint>
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>10.一网打尽 Nest 全部装饰器</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#一网打尽-nest-全部装饰器" />
+      </navPoint>
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结" />
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>100.Nest 如何实现国际化？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-如何实现国际化" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-1" />
+      </navPoint>
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>101.会议室预订系统：需求分析和原型图</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统需求分析和原型图" />
+        <navPoint id="navPoint-8">
+          <navLabel>
+            <text>用户端–登录</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端登录" />
+        </navPoint>
+        <navPoint id="navPoint-9">
+          <navLabel>
+            <text>用户端–注册</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端注册" />
+        </navPoint>
+        <navPoint id="navPoint-10">
+          <navLabel>
+            <text>用户端–修改密码</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端修改密码" />
+        </navPoint>
+        <navPoint id="navPoint-11">
+          <navLabel>
+            <text>用户端–会议室列表</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端会议室列表" />
+        </navPoint>
+        <navPoint id="navPoint-12">
+          <navLabel>
+            <text>用户端–预订会议室</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端预订会议室" />
+        </navPoint>
+        <navPoint id="navPoint-13">
+          <navLabel>
+            <text>用户端–预订历史</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端预订历史" />
+        </navPoint>
+        <navPoint id="navPoint-14">
+          <navLabel>
+            <text>用户端–个人信息修改</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#用户端个人信息修改" />
+        </navPoint>
+        <navPoint id="navPoint-15">
+          <navLabel>
+            <text>后台管理–登录</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理登录" />
+        </navPoint>
+        <navPoint id="navPoint-16">
+          <navLabel>
+            <text>后台管理–预订管理</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理预订管理" />
+        </navPoint>
+        <navPoint id="navPoint-17">
+          <navLabel>
+            <text>后台管理–会议室管理</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理会议室管理" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>后台管理–会议室添加/修改</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#后台管理会议室添加修改" />
+        <navPoint id="navPoint-19">
+          <navLabel>
+            <text>后台管理–用户管理</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理用户管理" />
+        </navPoint>
+        <navPoint id="navPoint-20">
+          <navLabel>
+            <text>后台管理–统计</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理统计" />
+        </navPoint>
+        <navPoint id="navPoint-21">
+          <navLabel>
+            <text>后台管理–信息修改</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理信息修改" />
+        </navPoint>
+        <navPoint id="navPoint-22">
+          <navLabel>
+            <text>后台管理–密码修改</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#后台管理密码修改" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-2" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>102.会议室预订系统：技术方案和数据库设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统技术方案和数据库设计" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>技术栈</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#技术栈" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>数据库设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#数据库设计" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>模块划分</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#模块划分" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>角色划分</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#角色划分" />
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-3" />
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>103.会议室预订系统：用户管理模块–用户注册</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块用户注册" />
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-4" />
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+          <text>104.会议室预订系统：用户管理模块–配置抽离、登录认证鉴权</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块配置抽离登录认证鉴权" />
+      </navPoint>
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-5" />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>105.会议室预订系统：用户管理模块– interceptor、修改信息接口</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-interceptor修改信息接口" />
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>106.会议室预订系统：用户管理模块–用户列表和分页查询</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块用户列表和分页查询" />
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-6" />
+      </navPoint>
+      <navPoint id="navPoint-37">
+        <navLabel>
+          <text>107.会议室预订系统：用户管理模块– swagger 接口文档</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-swagger-接口文档" />
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-7" />
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>108.会议室预订系统：用户管理模块– 用户端登录注册页面</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-用户端登录注册页面" />
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-8" />
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>109.会议室预订系统：用户管理模块– 用户端信息修改页面</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-用户端信息修改页面" />
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-9" />
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+          <text>11.ExecutionContext：切换不同上下文</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#executioncontext切换不同上下文" />
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-10" />
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>110.会议室预订系统：用户管理模块– 管理端用户列表页面</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-管理端用户列表页面" />
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-11" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>111.会议室预订系统：用户管理模块– 管理端信息修改页面</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统用户管理模块-管理端信息修改页面" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-12" />
+      </navPoint>
+      <navPoint id="navPoint-49">
+        <navLabel>
+          <text>112.会议室预订系统：会议室管理模块-后端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统会议室管理模块-后端开发" />
+      </navPoint>
+      <navPoint id="navPoint-50">
+        <navLabel>
+          <text>113.会议室预订系统：会议室管理模块-管理端前端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统会议室管理模块-管理端前端开发" />
+      </navPoint>
+      <navPoint id="navPoint-51">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-13" />
+      </navPoint>
+      <navPoint id="navPoint-52">
+        <navLabel>
+          <text>114.会议室预订系统：会议室管理模块-用户端前端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统会议室管理模块-用户端前端开发" />
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-14" />
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>115.会议室预订系统：预定管理模块-后端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统预定管理模块-后端开发" />
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-15" />
+      </navPoint>
+      <navPoint id="navPoint-56">
+        <navLabel>
+          <text>116.会议室预订系统：预定管理模块-管理端前端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统预定管理模块-管理端前端开发" />
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-16" />
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>117.会议室预订系统：预定管理模块-用户端前端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统预定管理模块-用户端前端开发" />
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-17" />
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>118.会议室预订系统：统计管理模块-后端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统统计管理模块-后端开发" />
+      </navPoint>
+      <navPoint id="navPoint-61">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-18" />
+      </navPoint>
+      <navPoint id="navPoint-62">
+        <navLabel>
+          <text>119.会议室预订系统：统计管理模块-前端开发</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统统计管理模块-前端开发" />
+      </navPoint>
+      <navPoint id="navPoint-63">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-19" />
+      </navPoint>
+      <navPoint id="navPoint-64">
+        <navLabel>
+          <text>12.Nest 如何自定义装饰器</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-如何自定义装饰器" />
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-20" />
+      </navPoint>
+      <navPoint id="navPoint-66">
+        <navLabel>
+          <text>120.会议室预订系统：后端项目部署到阿里云</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统后端项目部署到阿里云" />
+      </navPoint>
+      <navPoint id="navPoint-67">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-21" />
+      </navPoint>
+      <navPoint id="navPoint-68">
+        <navLabel>
+          <text>121.会议室预订系统：前端项目部署到阿里云</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#会议室预订系统前端项目部署到阿里云" />
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-22" />
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>122.Nest 如何创建微服务？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-如何创建微服务" />
+      </navPoint>
+      <navPoint id="navPoint-71">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-23" />
+      </navPoint>
+      <navPoint id="navPoint-72">
+        <navLabel>
+          <text>123.Nest 的 Monorepo 和 Library</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-的-monorepo-和-library" />
+      </navPoint>
+      <navPoint id="navPoint-73">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-24" />
+      </navPoint>
+      <navPoint id="navPoint-74">
+        <navLabel>
+          <text>124.用 Etcd 实现微服务配置中心和注册中心</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#用-etcd-实现微服务配置中心和注册中心" />
+      </navPoint>
+      <navPoint id="navPoint-75">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-25" />
+      </navPoint>
+      <navPoint id="navPoint-76">
+        <navLabel>
+          <text>125.Nest 集成 Etcd 做注册中心、配置中心</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-集成-etcd-做注册中心配置中心" />
+      </navPoint>
+      <navPoint id="navPoint-77">
+        <navLabel>
+          <text>126.基于 gRPC 实现跨语言的微服务通信</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-grpc-实现跨语言的微服务通信" />
+      </navPoint>
+      <navPoint id="navPoint-78">
+        <navLabel>
+          <text>127.快速入门 ORM 框架 Prisma</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速入门-orm-框架-prisma" />
+      </navPoint>
+      <navPoint id="navPoint-79">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-26" />
+      </navPoint>
+      <navPoint id="navPoint-80">
+        <navLabel>
+          <text>128.Prisma 的全部命令</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-的全部命令" />
+      </navPoint>
+      <navPoint id="navPoint-81">
+        <navLabel>
+          <text>prisma init</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-init" />
+      </navPoint>
+      <navPoint id="navPoint-82">
+        <navLabel>
+          <text>prisma db</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-db" />
+      </navPoint>
+      <navPoint id="navPoint-83">
+        <navLabel>
+          <text>prisma migrate</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-migrate" />
+      </navPoint>
+      <navPoint id="navPoint-84">
+        <navLabel>
+          <text>prisma generate</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-generate" />
+      </navPoint>
+      <navPoint id="navPoint-85">
+        <navLabel>
+          <text>prisma studio</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-studio" />
+      </navPoint>
+      <navPoint id="navPoint-86">
+        <navLabel>
+          <text>prisma validate</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-validate" />
+      </navPoint>
+      <navPoint id="navPoint-87">
+        <navLabel>
+          <text>prisma format</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-format" />
+      </navPoint>
+      <navPoint id="navPoint-88">
+        <navLabel>
+          <text>prisma version</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-version" />
+      </navPoint>
+      <navPoint id="navPoint-89">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-27" />
+      </navPoint>
+      <navPoint id="navPoint-90">
+        <navLabel>
+          <text>129.Prisma 的全部 schema 语法</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-的全部-schema-语法" />
+      </navPoint>
+      <navPoint id="navPoint-91">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-28" />
+      </navPoint>
+      <navPoint id="navPoint-92">
+        <navLabel>
+          <text>13.Metadata 和 Reflector</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#metadata-和-reflector" />
+      </navPoint>
+      <navPoint id="navPoint-93">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-29" />
+      </navPoint>
+      <navPoint id="navPoint-94">
+        <navLabel>
+          <text>130.Primsa Client 单表 CRUD 的全部 api</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#primsa-client-单表-crud-的全部-api" />
+      </navPoint>
+      <navPoint id="navPoint-95">
+        <navLabel>
+          <text>findUnique</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#findunique" />
+      </navPoint>
+      <navPoint id="navPoint-96">
+        <navLabel>
+          <text>findUniqueOrThrow</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#finduniqueorthrow" />
+      </navPoint>
+      <navPoint id="navPoint-97">
+        <navLabel>
+          <text>findMany</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#findmany" />
+      </navPoint>
+      <navPoint id="navPoint-98">
+        <navLabel>
+          <text>findFirst</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#findfirst" />
+      </navPoint>
+      <navPoint id="navPoint-99">
+        <navLabel>
+          <text>create</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#create" />
+      </navPoint>
+      <navPoint id="navPoint-100">
+        <navLabel>
+          <text>update</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#update" />
+      </navPoint>
+      <navPoint id="navPoint-101">
+        <navLabel>
+          <text>upsert</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#upsert" />
+      </navPoint>
+      <navPoint id="navPoint-102">
+        <navLabel>
+          <text>delete</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#delete" />
+      </navPoint>
+      <navPoint id="navPoint-103">
+        <navLabel>
+          <text>count</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#count" />
+      </navPoint>
+      <navPoint id="navPoint-104">
+        <navLabel>
+          <text>aggregate</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#aggregate" />
+      </navPoint>
+      <navPoint id="navPoint-105">
+        <navLabel>
+          <text>groupBy</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#groupby" />
+      </navPoint>
+      <navPoint id="navPoint-106">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-30" />
+      </navPoint>
+      <navPoint id="navPoint-107">
+        <navLabel>
+          <text>131.Prisma Client 多表 CRUD 的全部 api</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#prisma-client-多表-crud-的全部-api" />
+      </navPoint>
+      <navPoint id="navPoint-108">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-31" />
+      </navPoint>
+      <navPoint id="navPoint-109">
+        <navLabel>
+          <text>132.在 Nest 里集成 Prisma</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#在-nest-里集成-prisma" />
+      </navPoint>
+      <navPoint id="navPoint-110">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-32" />
+      </navPoint>
+      <navPoint id="navPoint-111">
+        <navLabel>
+          <text>133.为什么前端监控系统要用 RabbitMQ？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么前端监控系统要用-rabbitmq" />
+      </navPoint>
+      <navPoint id="navPoint-112">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-33" />
+      </navPoint>
+      <navPoint id="navPoint-113">
+        <navLabel>
+          <text>14.Module 和 Provider 的循环依赖怎么处理？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#module-和-provider-的循环依赖怎么处理" />
+      </navPoint>
+      <navPoint id="navPoint-114">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-34" />
+      </navPoint>
+      <navPoint id="navPoint-115">
+        <navLabel>
+          <text>144.基于 Redis 实现关注关系</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-redis-实现关注关系" />
+      </navPoint>
+      <navPoint id="navPoint-116">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-35" />
+      </navPoint>
+      <navPoint id="navPoint-117">
+        <navLabel>
+          <text>145.基于 Redis 实现各种排行榜（周榜、月榜、年榜）</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-redis-实现各种排行榜周榜月榜年榜" />
+      </navPoint>
+      <navPoint id="navPoint-118">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-36" />
+      </navPoint>
+      <navPoint id="navPoint-119">
+        <navLabel>
+          <text>146.用 Node.js 手写 WebSocket 协议</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#用-node.js-手写-websocket-协议" />
+      </navPoint>
+      <navPoint id="navPoint-120">
+        <navLabel>
+          <text>147.Nest 开发 WebSocket 服务</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-开发-websocket-服务" />
+      </navPoint>
+      <navPoint id="navPoint-121">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-37" />
+      </navPoint>
+      <navPoint id="navPoint-122">
+        <navLabel>
+          <text>148.聊天室项目：需求分析和原型图</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#聊天室项目需求分析和原型图" />
+      </navPoint>
+      <navPoint id="navPoint-123">
+        <navLabel>
+          <text>注册</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#注册" />
+      </navPoint>
+      <navPoint id="navPoint-124">
+        <navLabel>
+          <text>登录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#登录" />
+      </navPoint>
+      <navPoint id="navPoint-125">
+        <navLabel>
+          <text>修改密码</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#修改密码" />
+      </navPoint>
+      <navPoint id="navPoint-126">
+        <navLabel>
+          <text>修改信息</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#修改信息" />
+      </navPoint>
+      <navPoint id="navPoint-127">
+        <navLabel>
+          <text>通讯录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#通讯录" />
+      </navPoint>
+      <navPoint id="navPoint-128">
+        <navLabel>
+          <text>添加好友/群聊</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#添加好友群聊" />
+      </navPoint>
+      <navPoint id="navPoint-129">
+        <navLabel>
+          <text>通知</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#通知" />
+      </navPoint>
+      <navPoint id="navPoint-130">
+        <navLabel>
+          <text>聊天</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#聊天" />
+      </navPoint>
+      <navPoint id="navPoint-131">
+        <navLabel>
+          <text>收藏</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#收藏" />
+      </navPoint>
+      <navPoint id="navPoint-132">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-38" />
+      </navPoint>
+      <navPoint id="navPoint-133">
+        <navLabel>
+          <text>149.聊天室项目：技术选型和数据库设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#聊天室项目技术选型和数据库设计" />
+      </navPoint>
+      <navPoint id="navPoint-134">
+        <navLabel>
+          <text>技术栈</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#技术栈-1" />
+      </navPoint>
+      <navPoint id="navPoint-135">
+        <navLabel>
+          <text>数据库设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#数据库设计-1" />
+      </navPoint>
+      <navPoint id="navPoint-136">
+        <navLabel>
+          <text>模块划分</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#模块划分-1" />
+      </navPoint>
+      <navPoint id="navPoint-137">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-39" />
+      </navPoint>
+      <navPoint id="navPoint-138">
+        <navLabel>
+          <text>15.如何创建动态模块</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何创建动态模块" />
+      </navPoint>
+      <navPoint id="navPoint-139">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-40" />
+      </navPoint>
+      <navPoint id="navPoint-140">
+        <navLabel>
+          <text>150.聊天室项目：用户注册</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#聊天室项目用户注册" />
+      </navPoint>
+      <navPoint id="navPoint-141">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-41" />
+      </navPoint>
+      <navPoint id="navPoint-142">
+        <navLabel>
+          <text>158.MongoDB 快速入门</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#mongodb-快速入门" />
+      </navPoint>
+      <navPoint id="navPoint-143">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-42" />
+      </navPoint>
+      <navPoint id="navPoint-144">
+        <navLabel>
+          <text>159.使用 mongoose 操作 MongoDB 数据库</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-mongoose-操作-mongodb-数据库" />
+      </navPoint>
+      <navPoint id="navPoint-145">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-43" />
+      </navPoint>
+      <navPoint id="navPoint-146">
+        <navLabel>
+          <text>16.Nest 和 Express 的关系，如何切到 fastify</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-和-express-的关系如何切到-fastify" />
+      </navPoint>
+      <navPoint id="navPoint-147">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-44" />
+      </navPoint>
+      <navPoint id="navPoint-148">
+        <navLabel>
+          <text>160.GraphQL 快速入门</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#graphql-快速入门" />
+      </navPoint>
+      <navPoint id="navPoint-149">
+        <navLabel>
+          <text>161.Nest 开发 GraphQL 服务：实现 CRUD</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-开发-graphql-服务实现-crud" />
+      </navPoint>
+      <navPoint id="navPoint-150">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-45" />
+      </navPoint>
+      <navPoint id="navPoint-151">
+        <navLabel>
+          <text>162.GraphQL + Primsa + React 实现 TodoList</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#graphql-primsa-react-实现-todolist" />
+      </navPoint>
+      <navPoint id="navPoint-152">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-46" />
+      </navPoint>
+      <navPoint id="navPoint-153">
+        <navLabel>
+          <text>166.如何调试 Nest 源码？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何调试-nest-源码" />
+      </navPoint>
+      <navPoint id="navPoint-154">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-47" />
+      </navPoint>
+      <navPoint id="navPoint-155">
+        <navLabel>
+          <text>17.Nest 的 Middleware</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-的-middleware" />
+      </navPoint>
+      <navPoint id="navPoint-156">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-48" />
+      </navPoint>
+      <navPoint id="navPoint-157">
+        <navLabel>
+          <text>18.RxJS 和 Interceptor</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#rxjs-和-interceptor" />
+      </navPoint>
+      <navPoint id="navPoint-158">
+        <navLabel>
+          <text>map</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#map" />
+      </navPoint>
+      <navPoint id="navPoint-159">
+        <navLabel>
+          <text>tap</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#tap" />
+      </navPoint>
+      <navPoint id="navPoint-160">
+        <navLabel>
+          <text>catchError</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#catcherror" />
+      </navPoint>
+      <navPoint id="navPoint-161">
+        <navLabel>
+          <text>timeout</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#timeout" />
+      </navPoint>
+      <navPoint id="navPoint-162">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-49" />
+      </navPoint>
+      <navPoint id="navPoint-163">
+        <navLabel>
+          <text>19.内置 Pipe 和自定义 Pipe</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#内置-pipe-和自定义-pipe" />
+      </navPoint>
+      <navPoint id="navPoint-164">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-50" />
+      </navPoint>
+      <navPoint id="navPoint-165">
+        <navLabel>
+          <text>2.给你 5 个学习 Nest 的理由，你会心动么</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#给你-5-个学习-nest-的理由你会心动么" />
+      </navPoint>
+      <navPoint id="navPoint-166">
+        <navLabel>
+          <text>最流行的 Node 企业级框架</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#最流行的-node-企业级框架" />
+      </navPoint>
+      <navPoint id="navPoint-167">
+        <navLabel>
+          <text>学习各种后端中间件</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#学习各种后端中间件" />
+      </navPoint>
+      <navPoint id="navPoint-168">
+        <navLabel>
+          <text>可以找国外的全栈工作，或者接远程外包</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#可以找国外的全栈工作或者接远程外包" />
+      </navPoint>
+      <navPoint id="navPoint-169">
+        <navLabel>
+          <text>可以独立做自己的产品</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#可以独立做自己的产品" />
+      </navPoint>
+      <navPoint id="navPoint-170">
+        <navLabel>
+          <text>学习优秀的架构设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#学习优秀的架构设计" />
+      </navPoint>
+      <navPoint id="navPoint-171">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-51" />
+      </navPoint>
+      <navPoint id="navPoint-172">
+        <navLabel>
+          <text>20.如何使用 ValidationPipe 验证 post 请求参数</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何使用-validationpipe-验证-post-请求参数" />
+      </navPoint>
+      <navPoint id="navPoint-173">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-52" />
+      </navPoint>
+      <navPoint id="navPoint-174">
+        <navLabel>
+          <text>21.如何自定义 Exception Filter</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何自定义-exception-filter" />
+      </navPoint>
+      <navPoint id="navPoint-175">
+        <navLabel>
+          <text>22.图解串一串 Nest 核心概念</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#图解串一串-nest-核心概念" />
+      </navPoint>
+      <navPoint id="navPoint-176">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-53" />
+      </navPoint>
+      <navPoint id="navPoint-177">
+        <navLabel>
+          <text>23.接口如何实现多版本共存</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#接口如何实现多版本共存" />
+      </navPoint>
+      <navPoint id="navPoint-178">
+        <navLabel>
+          <text>24.Express 如何使用 multer 实现文件上传</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#express-如何使用-multer-实现文件上传" />
+      </navPoint>
+      <navPoint id="navPoint-179">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-54" />
+      </navPoint>
+      <navPoint id="navPoint-180">
+        <navLabel>
+          <text>25.Nest 如何使用 multer 实现文件上传</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-如何使用-multer-实现文件上传" />
+      </navPoint>
+      <navPoint id="navPoint-181">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-55" />
+      </navPoint>
+      <navPoint id="navPoint-182">
+        <navLabel>
+          <text>26.大文件分片上传</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#大文件分片上传" />
+      </navPoint>
+      <navPoint id="navPoint-183">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-56" />
+      </navPoint>
+      <navPoint id="navPoint-184">
+        <navLabel>
+          <text>27.最完美的 OSS 上传方案</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#最完美的-oss-上传方案" />
+      </navPoint>
+      <navPoint id="navPoint-185">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-57" />
+      </navPoint>
+      <navPoint id="navPoint-186">
+        <navLabel>
+          <text>28.Nest 里如何打印日志？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-里如何打印日志" />
+      </navPoint>
+      <navPoint id="navPoint-187">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-58" />
+      </navPoint>
+      <navPoint id="navPoint-188">
+        <navLabel>
+          <text>29.为什么 Node 里要用 Winston 打印日志？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么-node-里要用-winston-打印日志" />
+      </navPoint>
+      <navPoint id="navPoint-189">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-59" />
+      </navPoint>
+      <navPoint id="navPoint-190">
+        <navLabel>
+          <text>3.快速掌握 Nest CLI</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速掌握-nest-cli" />
+      </navPoint>
+      <navPoint id="navPoint-191">
+        <navLabel>
+          <text>nest new</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-new" />
+      </navPoint>
+      <navPoint id="navPoint-192">
+        <navLabel>
+          <text>nest generate’</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-generate" />
+      </navPoint>
+      <navPoint id="navPoint-193">
+        <navLabel>
+          <text>nest build</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-build" />
+      </navPoint>
+      <navPoint id="navPoint-194">
+        <navLabel>
+          <text>nest-cli.json</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-cli.json" />
+      </navPoint>
+      <navPoint id="navPoint-195">
+        <navLabel>
+          <text>nest start</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-start" />
+      </navPoint>
+      <navPoint id="navPoint-196">
+        <navLabel>
+          <text>nest info</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-info" />
+      </navPoint>
+      <navPoint id="navPoint-197">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-60" />
+      </navPoint>
+      <navPoint id="navPoint-198">
+        <navLabel>
+          <text>30.Nest 集成日志框架 Winston</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-集成日志框架-winston" />
+      </navPoint>
+      <navPoint id="navPoint-199">
+        <navLabel>
+          <text>31.通过 Desktop 学 Docker 也太简单了</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#通过-desktop-学-docker-也太简单了" />
+      </navPoint>
+      <navPoint id="navPoint-200">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-61" />
+      </navPoint>
+      <navPoint id="navPoint-201">
+        <navLabel>
+          <text>32.你的第一个 Dockerfile</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#你的第一个-dockerfile" />
+      </navPoint>
+      <navPoint id="navPoint-202">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-62" />
+      </navPoint>
+      <navPoint id="navPoint-203">
+        <navLabel>
+          <text>33.Nest 项目如何编写 Dockerfile</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-项目如何编写-dockerfile" />
+      </navPoint>
+      <navPoint id="navPoint-204">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-63" />
+      </navPoint>
+      <navPoint id="navPoint-205">
+        <navLabel>
+          <text>34.提升 Dockerfile 水平的 5 个技巧</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#提升-dockerfile-水平的-5-个技巧" />
+      </navPoint>
+      <navPoint id="navPoint-206">
+        <navLabel>
+          <text>使用 alpine 镜像，而不是默认的 linux 镜像</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-alpine-镜像而不是默认的-linux-镜像" />
+      </navPoint>
+      <navPoint id="navPoint-207">
+        <navLabel>
+          <text>使用多阶段构建</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用多阶段构建" />
+      </navPoint>
+      <navPoint id="navPoint-208">
+        <navLabel>
+          <text>使用 ARG 增加构建灵活性</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-arg-增加构建灵活性" />
+      </navPoint>
+      <navPoint id="navPoint-209">
+        <navLabel>
+          <text>CMD 结合 ENTRYPOINT</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#cmd-结合-entrypoint" />
+      </navPoint>
+      <navPoint id="navPoint-210">
+        <navLabel>
+          <text>COPY vs ADD</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#copy-vs-add" />
+      </navPoint>
+      <navPoint id="navPoint-211">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-64" />
+      </navPoint>
+      <navPoint id="navPoint-212">
+        <navLabel>
+          <text>35.Docker 是怎么实现的？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#docker-是怎么实现的" />
+      </navPoint>
+      <navPoint id="navPoint-213">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-65" />
+      </navPoint>
+      <navPoint id="navPoint-214">
+        <navLabel>
+          <text>36.为什么 Node 应用要用 PM2 来跑？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么-node-应用要用-pm2-来跑" />
+      </navPoint>
+      <navPoint id="navPoint-215">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-66" />
+      </navPoint>
+      <navPoint id="navPoint-216">
+        <navLabel>
+          <text>37.快速入门 MySQL</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速入门-mysql" />
+      </navPoint>
+      <navPoint id="navPoint-217">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-67" />
+      </navPoint>
+      <navPoint id="navPoint-218">
+        <navLabel>
+          <text>38.SQL 查询语句的所有语法和函数</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#sql-查询语句的所有语法和函数" />
+      </navPoint>
+      <navPoint id="navPoint-219">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-68" />
+      </navPoint>
+      <navPoint id="navPoint-220">
+        <navLabel>
+          <text>39.一对一、join 查询、级联方式</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#一对一join-查询级联方式" />
+      </navPoint>
+      <navPoint id="navPoint-221">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-69" />
+      </navPoint>
+      <navPoint id="navPoint-222">
+        <navLabel>
+          <text>4.5 种 HTTP 数据传输方式</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#种-http-数据传输方式" />
+      </navPoint>
+      <navPoint id="navPoint-223">
+        <navLabel>
+          <text>url param</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#url-param" />
+      </navPoint>
+      <navPoint id="navPoint-224">
+        <navLabel>
+          <text>query</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#query" />
+      </navPoint>
+      <navPoint id="navPoint-225">
+        <navLabel>
+          <text>form-urlencoded</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#form-urlencoded" />
+      </navPoint>
+      <navPoint id="navPoint-226">
+        <navLabel>
+          <text>form-data</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#form-data" />
+      </navPoint>
+      <navPoint id="navPoint-227">
+        <navLabel>
+          <text>json</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#json" />
+      </navPoint>
+      <navPoint id="navPoint-228">
+        <navLabel>
+          <text>url param</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#url-param-1" />
+      </navPoint>
+      <navPoint id="navPoint-229">
+        <navLabel>
+          <text>query</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#query-1" />
+      </navPoint>
+      <navPoint id="navPoint-230">
+        <navLabel>
+          <text>form urlencoded</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#form-urlencoded-1" />
+      </navPoint>
+      <navPoint id="navPoint-231">
+        <navLabel>
+          <text>json</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#json-1" />
+      </navPoint>
+      <navPoint id="navPoint-232">
+        <navLabel>
+          <text>form data</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#form-data-1" />
+      </navPoint>
+      <navPoint id="navPoint-233">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-70" />
+      </navPoint>
+      <navPoint id="navPoint-234">
+        <navLabel>
+          <text>40.一对多、多对多关系的表设计</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#一对多多对多关系的表设计" />
+      </navPoint>
+      <navPoint id="navPoint-235">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-71" />
+      </navPoint>
+      <navPoint id="navPoint-236">
+        <navLabel>
+          <text>41.子查询和 EXISTS</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#子查询和-exists" />
+      </navPoint>
+      <navPoint id="navPoint-237">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-72" />
+      </navPoint>
+      <navPoint id="navPoint-238">
+        <navLabel>
+          <text>42.SQL 综合练习</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#sql-综合练习" />
+        <navPoint id="navPoint-239">
+          <navLabel>
+            <text>需求 1: 查询每个客户的订单总金额</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-1-查询每个客户的订单总金额" />
+        </navPoint>
+        <navPoint id="navPoint-240">
+          <navLabel>
+            <text>需求 2: 查询每个客户的订单总金额，并计算其占比</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-2-查询每个客户的订单总金额并计算其占比" />
+        </navPoint>
+        <navPoint id="navPoint-241">
+          <navLabel>
+            <text>需求 3：查询每个客户的订单总金额，并列出每个订单的商品清单</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-3查询每个客户的订单总金额并列出每个订单的商品清单" />
+        </navPoint>
+        <navPoint id="navPoint-242">
+          <navLabel>
+            <text>需求 4：查询每个客户的订单总金额，并列出每个订单的商品清单，同时只显示客户名字姓“张”的客户的记录：</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-4查询每个客户的订单总金额并列出每个订单的商品清单同时只显示客户名字姓张的客户的记录" />
+        </navPoint>
+        <navPoint id="navPoint-243">
+          <navLabel>
+            <text>需求 5:查询每个客户的订单总金额，并列出每个订单的商品清单，同时只显示订单日期在2022年1月1日到2022年1月3日之间的记录</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-5查询每个客户的订单总金额并列出每个订单的商品清单同时只显示订单日期在2022年1月1日到2022年1月3日之间的记录" />
+        </navPoint>
+        <navPoint id="navPoint-244">
+          <navLabel>
+            <text>需求 6：查询每个客户的订单总金额，并计算商品数量，只包含商品名称包含“鞋”的商品，商品名用-连接，显示前 3 条记录：</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#需求-6查询每个客户的订单总金额并计算商品数量只包含商品名称包含鞋的商品商品名用-连接显示前-3-条记录" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-245">
+        <navLabel>
+          <text>需求 7: 查询存在订单的客户</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#需求-7-查询存在订单的客户" />
+      </navPoint>
+      <navPoint id="navPoint-246">
+        <navLabel>
+          <text>需求 8: 将王磊的订单总金额打九折</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#需求-8-将王磊的订单总金额打九折" />
+      </navPoint>
+      <navPoint id="navPoint-247">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-73" />
+      </navPoint>
+      <navPoint id="navPoint-248">
+        <navLabel>
+          <text>43.MySQL 的事务和隔离级别</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#mysql-的事务和隔离级别" />
+      </navPoint>
+      <navPoint id="navPoint-249">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-74" />
+      </navPoint>
+      <navPoint id="navPoint-250">
+        <navLabel>
+          <text>44.MySQL 的视图、存储过程和函数</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#mysql-的视图存储过程和函数" />
+      </navPoint>
+      <navPoint id="navPoint-251">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-75" />
+      </navPoint>
+      <navPoint id="navPoint-252">
+        <navLabel>
+          <text>45.使用 Node 操作 MySQL 的两种方式</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-node-操作-mysql-的两种方式" />
+      </navPoint>
+      <navPoint id="navPoint-253">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-76" />
+      </navPoint>
+      <navPoint id="navPoint-254">
+        <navLabel>
+          <text>46.快速掌握 TypeORM</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速掌握-typeorm" />
+      </navPoint>
+      <navPoint id="navPoint-255">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-77" />
+      </navPoint>
+      <navPoint id="navPoint-256">
+        <navLabel>
+          <text>47.TypeORM 一对一的映射和关联 CRUD</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#typeorm-一对一的映射和关联-crud" />
+      </navPoint>
+      <navPoint id="navPoint-257">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-78" />
+      </navPoint>
+      <navPoint id="navPoint-258">
+        <navLabel>
+          <text>48.TypeORM 一对多的映射和关联 CRUD</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#typeorm-一对多的映射和关联-crud" />
+      </navPoint>
+      <navPoint id="navPoint-259">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-79" />
+      </navPoint>
+      <navPoint id="navPoint-260">
+        <navLabel>
+          <text>49.TypeORM 多对多的映射和关联 CRUD</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#typeorm-多对多的映射和关联-crud" />
+      </navPoint>
+      <navPoint id="navPoint-261">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-80" />
+      </navPoint>
+      <navPoint id="navPoint-262">
+        <navLabel>
+          <text>5.IoC 解决了什么痛点问题？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#ioc-解决了什么痛点问题" />
+      </navPoint>
+      <navPoint id="navPoint-263">
+        <navLabel>
+          <text>50.在 Nest 里集成 TypeORM</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#在-nest-里集成-typeorm" />
+      </navPoint>
+      <navPoint id="navPoint-264">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-81" />
+      </navPoint>
+      <navPoint id="navPoint-265">
+        <navLabel>
+          <text>51.TypeORM 如何保存任意层级的关系？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#typeorm-如何保存任意层级的关系" />
+      </navPoint>
+      <navPoint id="navPoint-266">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-82" />
+      </navPoint>
+      <navPoint id="navPoint-267">
+        <navLabel>
+          <text>52.为什么生产环境要用 TypeORM 的 migration 迁移功能？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么生产环境要用-typeorm-的-migration-迁移功能" />
+      </navPoint>
+      <navPoint id="navPoint-268">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-83" />
+      </navPoint>
+      <navPoint id="navPoint-269">
+        <navLabel>
+          <text>53.快速入门 Redis</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速入门-redis" />
+      </navPoint>
+      <navPoint id="navPoint-270">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-84" />
+      </navPoint>
+      <navPoint id="navPoint-271">
+        <navLabel>
+          <text>54.在 Nest 里操作 Redis</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#在-nest-里操作-redis" />
+      </navPoint>
+      <navPoint id="navPoint-272">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-85" />
+      </navPoint>
+      <navPoint id="navPoint-273">
+        <navLabel>
+          <text>55.为什么不用 cache-manager 操作 Redis？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么不用-cache-manager-操作-redis" />
+      </navPoint>
+      <navPoint id="navPoint-274">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-86" />
+      </navPoint>
+      <navPoint id="navPoint-275">
+        <navLabel>
+          <text>56.两种登录状态保存方式：JWT、Session</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#两种登录状态保存方式jwtsession" />
+      </navPoint>
+      <navPoint id="navPoint-276">
+        <navLabel>
+          <text>服务端存储的 session + cookie</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#服务端存储的-session-cookie" />
+        <navPoint id="navPoint-277">
+          <navLabel>
+            <text>CSRF</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#csrf" />
+        </navPoint>
+        <navPoint id="navPoint-278">
+          <navLabel>
+            <text>分布式 session</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#分布式-session" />
+        </navPoint>
+        <navPoint id="navPoint-279">
+          <navLabel>
+            <text>跨域</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#跨域" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-280">
+        <navLabel>
+          <text>客户端存储的 token</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#客户端存储的-token" />
+        <navPoint id="navPoint-281">
+          <navLabel>
+            <text>安全性</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#安全性" />
+        </navPoint>
+        <navPoint id="navPoint-282">
+          <navLabel>
+            <text>性能</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#性能" />
+        </navPoint>
+        <navPoint id="navPoint-283">
+          <navLabel>
+            <text>没法让 JWT 失效</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#没法让-jwt-失效" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-284">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-87" />
+      </navPoint>
+      <navPoint id="navPoint-285">
+        <navLabel>
+          <text>57.Nest 里实现 Session 和 JWT</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-里实现-session-和-jwt" />
+      </navPoint>
+      <navPoint id="navPoint-286">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-88" />
+      </navPoint>
+      <navPoint id="navPoint-287">
+        <navLabel>
+          <text>58.MySQL + TypeORM + JWT 实现登录注册</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#mysql-typeorm-jwt-实现登录注册" />
+      </navPoint>
+      <navPoint id="navPoint-288">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-89" />
+      </navPoint>
+      <navPoint id="navPoint-289">
+        <navLabel>
+          <text>59.基于 ACL 实现权限控制</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-acl-实现权限控制" />
+      </navPoint>
+      <navPoint id="navPoint-290">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-90" />
+      </navPoint>
+      <navPoint id="navPoint-291">
+        <navLabel>
+          <text>6.如何调试 Nest 项目</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何调试-nest-项目" />
+      </navPoint>
+      <navPoint id="navPoint-292">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-91" />
+      </navPoint>
+      <navPoint id="navPoint-293">
+        <navLabel>
+          <text>60.基于 RBAC 实现权限控制</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-rbac-实现权限控制" />
+      </navPoint>
+      <navPoint id="navPoint-294">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-92" />
+      </navPoint>
+      <navPoint id="navPoint-295">
+        <navLabel>
+          <text>61.基于 access_token 和 refresh_token 实现无感刷新登录状态</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-access_token-和-refresh_token-实现无感刷新登录状态" />
+      </navPoint>
+      <navPoint id="navPoint-296">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-93" />
+      </navPoint>
+      <navPoint id="navPoint-297">
+        <navLabel>
+          <text>62.使用 passport 做身份认证</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-passport-做身份认证" />
+      </navPoint>
+      <navPoint id="navPoint-298">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-94" />
+      </navPoint>
+      <navPoint id="navPoint-299">
+        <navLabel>
+          <text>63.passport 实现 GitHub 三方账号登录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#passport-实现-github-三方账号登录" />
+      </navPoint>
+      <navPoint id="navPoint-300">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-95" />
+      </navPoint>
+      <navPoint id="navPoint-301">
+        <navLabel>
+          <text>64.passport 实现 Google 三方账号登录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#passport-实现-google-三方账号登录" />
+      </navPoint>
+      <navPoint id="navPoint-302">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-96" />
+      </navPoint>
+      <navPoint id="navPoint-303">
+        <navLabel>
+          <text>66.如何动态读取不同环境的配置？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何动态读取不同环境的配置" />
+      </navPoint>
+      <navPoint id="navPoint-304">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-97" />
+      </navPoint>
+      <navPoint id="navPoint-305">
+        <navLabel>
+          <text>67.为什么要使用 Docker Compose ？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#为什么要使用-docker-compose" />
+      </navPoint>
+      <navPoint id="navPoint-306">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-98" />
+      </navPoint>
+      <navPoint id="navPoint-307">
+        <navLabel>
+          <text>68.Docker 容器通信的最简单方式：桥接网络</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#docker-容器通信的最简单方式桥接网络" />
+      </navPoint>
+      <navPoint id="navPoint-308">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-99" />
+      </navPoint>
+      <navPoint id="navPoint-309">
+        <navLabel>
+          <text>69.Docker 支持重启策略，是否还需要 PM2</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#docker-支持重启策略是否还需要-pm2" />
+      </navPoint>
+      <navPoint id="navPoint-310">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-100" />
+      </navPoint>
+      <navPoint id="navPoint-311">
+        <navLabel>
+          <text>7.使用多种 Provider，灵活注入对象</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用多种-provider灵活注入对象" />
+      </navPoint>
+      <navPoint id="navPoint-312">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-101" />
+      </navPoint>
+      <navPoint id="navPoint-313">
+        <navLabel>
+          <text>70.快速掌握 Nginx 的 2 大核心用法</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#快速掌握-nginx-的-2-大核心用法" />
+      </navPoint>
+      <navPoint id="navPoint-314">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-102" />
+      </navPoint>
+      <navPoint id="navPoint-315">
+        <navLabel>
+          <text>71.基于 Nginx 实现灰度系统</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-nginx-实现灰度系统" />
+      </navPoint>
+      <navPoint id="navPoint-316">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-103" />
+      </navPoint>
+      <navPoint id="navPoint-317">
+        <navLabel>
+          <text>72.基于 Redis 实现分布式 session</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-redis-实现分布式-session" />
+      </navPoint>
+      <navPoint id="navPoint-318">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-104" />
+      </navPoint>
+      <navPoint id="navPoint-319">
+        <navLabel>
+          <text>73.手写序列化 Entity 的拦截器</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#手写序列化-entity-的拦截器" />
+      </navPoint>
+      <navPoint id="navPoint-320">
+        <navLabel>
+          <text>74.Redis + 高德地图，实现附近的充电宝</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#redis-高德地图实现附近的充电宝" />
+      </navPoint>
+      <navPoint id="navPoint-321">
+        <navLabel>
+          <text>75.用 Swagger 自动生成 api 文档</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#用-swagger-自动生成-api-文档" />
+      </navPoint>
+      <navPoint id="navPoint-322">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-105" />
+      </navPoint>
+      <navPoint id="navPoint-323">
+        <navLabel>
+          <text>76.如何灵活创建 DTO</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何灵活创建-dto" />
+      </navPoint>
+      <navPoint id="navPoint-324">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-106" />
+      </navPoint>
+      <navPoint id="navPoint-325">
+        <navLabel>
+          <text>77.class- validator 的内置装饰器，如何自定义装饰器</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#class--validator-的内置装饰器如何自定义装饰器" />
+      </navPoint>
+      <navPoint id="navPoint-326">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-107" />
+      </navPoint>
+      <navPoint id="navPoint-327">
+        <navLabel>
+          <text>78. 序列化 Entity，你不需要 VO 对象</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#序列化-entity你不需要-vo-对象" />
+      </navPoint>
+      <navPoint id="navPoint-328">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-108" />
+      </navPoint>
+      <navPoint id="navPoint-329">
+        <navLabel>
+          <text>79.使用 compodoc 生成文档</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#使用-compodoc-生成文档" />
+      </navPoint>
+      <navPoint id="navPoint-330">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-109" />
+      </navPoint>
+      <navPoint id="navPoint-331">
+        <navLabel>
+          <text>8.全局模块和生命周期</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#全局模块和生命周期" />
+      </navPoint>
+      <navPoint id="navPoint-332">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-110" />
+      </navPoint>
+      <navPoint id="navPoint-333">
+        <navLabel>
+          <text>80.Node 如何发邮件？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#node-如何发邮件" />
+      </navPoint>
+      <navPoint id="navPoint-334">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-111" />
+      </navPoint>
+      <navPoint id="navPoint-335">
+        <navLabel>
+          <text>81.实现基于邮箱验证码的登录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#实现基于邮箱验证码的登录" />
+      </navPoint>
+      <navPoint id="navPoint-336">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-112" />
+      </navPoint>
+      <navPoint id="navPoint-337">
+        <navLabel>
+          <text>82.定时任务 + Redis 实现阅读量计数</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#定时任务-redis-实现阅读量计数" />
+      </navPoint>
+      <navPoint id="navPoint-338">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-113" />
+      </navPoint>
+      <navPoint id="navPoint-339">
+        <navLabel>
+          <text>83.Nest 的 3 种定时任务</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-的-3-种定时任务" />
+      </navPoint>
+      <navPoint id="navPoint-340">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-114" />
+      </navPoint>
+      <navPoint id="navPoint-341">
+        <navLabel>
+          <text>84.Nest 里如何实现事件通信？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-里如何实现事件通信" />
+      </navPoint>
+      <navPoint id="navPoint-342">
+        <navLabel>
+          <text>85.HttpModule + pinyin 实现天气预报查询服务</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#httpmodule-pinyin-实现天气预报查询服务" />
+      </navPoint>
+      <navPoint id="navPoint-343">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-115" />
+      </navPoint>
+      <navPoint id="navPoint-344">
+        <navLabel>
+          <text>86.如何记录请求日志</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何记录请求日志" />
+      </navPoint>
+      <navPoint id="navPoint-345">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-116" />
+      </navPoint>
+      <navPoint id="navPoint-346">
+        <navLabel>
+          <text>87.短链服务？自己写一个</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#短链服务自己写一个" />
+      </navPoint>
+      <navPoint id="navPoint-347">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-117" />
+      </navPoint>
+      <navPoint id="navPoint-348">
+        <navLabel>
+          <text>88.Nest 实现 Server Sent Event 数据推送</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-实现-server-sent-event-数据推送" />
+      </navPoint>
+      <navPoint id="navPoint-349">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-118" />
+      </navPoint>
+      <navPoint id="navPoint-350">
+        <navLabel>
+          <text>89.用 minio 自己搭一个 OSS 服务</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#用-minio-自己搭一个-oss-服务" />
+      </navPoint>
+      <navPoint id="navPoint-351">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-119" />
+      </navPoint>
+      <navPoint id="navPoint-352">
+        <navLabel>
+          <text>9.AOP 架构有什么好处？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#aop-架构有什么好处" />
+        <navPoint id="navPoint-353">
+          <navLabel>
+            <text>中间件 Middleware</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#中间件-middleware" />
+        </navPoint>
+        <navPoint id="navPoint-354">
+          <navLabel>
+            <text>Guard</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#guard" />
+        </navPoint>
+        <navPoint id="navPoint-355">
+          <navLabel>
+            <text>Interceptor</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#interceptor" />
+        </navPoint>
+        <navPoint id="navPoint-356">
+          <navLabel>
+            <text>Pipe</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#pipe" />
+        </navPoint>
+        <navPoint id="navPoint-357">
+          <navLabel>
+            <text>ExceptionFilter</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#exceptionfilter" />
+        </navPoint>
+        <navPoint id="navPoint-358">
+          <navLabel>
+            <text>几种 AOP 机制的顺序</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#几种-aop-机制的顺序" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-359">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-120" />
+      </navPoint>
+      <navPoint id="navPoint-360">
+        <navLabel>
+          <text>90.前端如何直传文件到 Minio</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#前端如何直传文件到-minio" />
+      </navPoint>
+      <navPoint id="navPoint-361">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-121" />
+      </navPoint>
+      <navPoint id="navPoint-362">
+        <navLabel>
+          <text>91.基于 sharp 实现 gif 压缩工具</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#基于-sharp-实现-gif-压缩工具" />
+      </navPoint>
+      <navPoint id="navPoint-363">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-122" />
+      </navPoint>
+      <navPoint id="navPoint-364">
+        <navLabel>
+          <text>92.大文件如何实现流式下载？</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#大文件如何实现流式下载" />
+      </navPoint>
+      <navPoint id="navPoint-365">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-123" />
+      </navPoint>
+      <navPoint id="navPoint-366">
+        <navLabel>
+          <text>93.Puppeteer 实现爬虫，爬取 BOSS 直聘全部前端岗位</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#puppeteer-实现爬虫爬取-boss-直聘全部前端岗位" />
+      </navPoint>
+      <navPoint id="navPoint-367">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-124" />
+      </navPoint>
+      <navPoint id="navPoint-368">
+        <navLabel>
+          <text>94.实现扫二维码登录</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#实现扫二维码登录" />
+      </navPoint>
+      <navPoint id="navPoint-369">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-125" />
+      </navPoint>
+      <navPoint id="navPoint-370">
+        <navLabel>
+          <text>95.Nest 的 REPL 模式</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#nest-的-repl-模式" />
+      </navPoint>
+      <navPoint id="navPoint-371">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-126" />
+      </navPoint>
+      <navPoint id="navPoint-372">
+        <navLabel>
+          <text>96.实现 Excel 导入导出</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#实现-excel-导入导出" />
+      </navPoint>
+      <navPoint id="navPoint-373">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-127" />
+      </navPoint>
+      <navPoint id="navPoint-374">
+        <navLabel>
+          <text>97.如何用代码动态生成 PPT</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何用代码动态生成-ppt" />
+      </navPoint>
+      <navPoint id="navPoint-375">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#总结-128" />
+      </navPoint>
+      <navPoint id="navPoint-376">
+        <navLabel>
+          <text>99.如何拿到服务器 CPU、内存、磁盘状态</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#如何拿到服务器-cpu内存磁盘状态" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
