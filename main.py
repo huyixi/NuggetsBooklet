@@ -132,7 +132,8 @@ def generate_with_pandoc(input_md, output_file, output_format):
 
     try:
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
-        print(f"成功生成电子书: {output_file}")
+        if result.returncode == 0:
+            print(f"成功生成电子书: {output_file}")
     except subprocess.CalledProcessError as e:
         print(f"生成电子书失败: {e}")
         print(f"错误输出: {e.stderr}")
